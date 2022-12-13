@@ -11,7 +11,7 @@ import ComAnel from "./ComAnel";
 import InstrucaoSemAnel from "./InstrucaoSemAnel";
 import SemAnel from "./SemAnel";
 
-import wallpaper from "../imgs/wallpaper.png";
+import wallpaper from "../imgs/wallpaper2.png";
 
 export default function App() {
   const [tamCartao, setTamCartao] = useState("100");
