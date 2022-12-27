@@ -43,6 +43,8 @@ const ImgGif = styled.div`
 
   img {
     border-radius: 10px;
+    max-height: 100%;
+    max-width: 100%;
 
     @media (min-width: 1300px) {
       width: 400px;
@@ -51,7 +53,7 @@ const ImgGif = styled.div`
     }
 
     @media (min-width: 1300px) {
-      width: 400px;
+      width: 600px;
     }
   }
 `;
